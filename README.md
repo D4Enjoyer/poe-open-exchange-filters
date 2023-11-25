@@ -5,7 +5,7 @@ This userscript automates the filtering process on Path of Exile Trade Exchange 
 
 ## Demo
 
-<img src="https://i.imgur.com/EWe0BnP.gif" alt="Script Demo">
+<img src="https://i.imgur.com/6G6eXWN.gif" alt="Script Demo">
 
 ## How it Works
 The script identifies specific filter categories and allows the user to activate or deactivate them through the script settings. Upon loading the Path of Exile Trade Exchange, the script will click on specified filter items for both the "Left" and "Right" filter panels to activate them. It utilizes jQuery for DOM manipulation and allows customization of filter activation.
