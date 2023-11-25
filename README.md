@@ -21,9 +21,14 @@ Once the userscript is installed:
 
 ## Customization
 - **Setting Left Items**: Modify the `leftItems` object in the script to control which items are clicked for the "Left" (Items I want) filter panel.  
-  <img src="https://i.imgur.com/z1tGoDA.png" alt="Left">
+  
 - **Setting Right Items**: Modify the `rightItems` object in the script to control which items are clicked for the "Right" (Items I have) filter panel.  
-  <img src="https://i.imgur.com/hNKnqij.png" alt="Right">
+  
+
+| Left filter  | Right filter |
+| ------------- |:-------------:|
+| <img src="https://i.imgur.com/z1tGoDA.png" alt="Left">   | <img src="https://i.imgur.com/hNKnqij.png" alt="Right">     |
+
   
 ## Author
 A God Gamer with support from his dear friend ChatGPT
